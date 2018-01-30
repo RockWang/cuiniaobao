@@ -2,6 +2,7 @@ export default {
   route: {
     basics: '基本信息',
     company: '保险公司',
+    demo: '测试小样',
     platform: '代理平台',
     product: '产品管理',
     productType: '产品分类',
